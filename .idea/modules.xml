@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DormitorySystem-master/DormitorySystem (1) (cn.edu.guet).iml" filepath="$PROJECT_DIR$/DormitorySystem-master/DormitorySystem (1) (cn.edu.guet).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/StuResidenceManage.iml" filepath="$PROJECT_DIR$/.idea/StuResidenceManage.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
